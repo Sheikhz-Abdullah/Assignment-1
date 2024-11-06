@@ -1,3 +1,5 @@
+# We need to make variables in order to assign words
+
 word1 = "Coding"
 word2 = "IS"
 word3 = "Cool"
